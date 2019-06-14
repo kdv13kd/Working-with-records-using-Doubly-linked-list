@@ -1,0 +1,2 @@
+# Working-with-records-using-Doubly-linked-list
+The program allows you to add, delete, edit, sort records. Saving to file and searching for information by key is also available. Records are information about subscribers of an automatic telephone exchange. The record contains the fields: Last Name, First Name, Telephone Number, Address, Privileges and Debt. The program is built on a data structure such as a doubly linked list.
